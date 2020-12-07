@@ -1,0 +1,2 @@
+# digncoreapps
+digncore webapp list
